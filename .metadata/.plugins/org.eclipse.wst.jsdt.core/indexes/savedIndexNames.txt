@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/juzerkhambati/Softwares/elearn/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+670985288.index

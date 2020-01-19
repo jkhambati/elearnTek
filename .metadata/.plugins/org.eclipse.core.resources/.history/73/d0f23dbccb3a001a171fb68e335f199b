@@ -1,0 +1,13 @@
+package com.elearn;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Elearn1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Elearn1Application.class, args);
+	}
+
+}
